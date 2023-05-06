@@ -1,0 +1,34 @@
+# Reading List
+
+- Accelerate
+- Docs for Developers
+- The Software Architect Elevator
+- Monolith to Microservices
+- Software Architecture: The Hard Parts
+- Architecture Patterns with Python
+- Learning Domain-Driven Design
+- Code Complete 2
+- Microservice Patterns
+- Operations Anti-Patterns, DevOps Solutions
+- Five Lines of Code
+- Modern Software Engineering
+- Clean Code
+- The Clean Coder
+- Code That Fits In Your Head
+- Clean Architecture
+- The Software Craftsman
+- Clean Craftmanship
+- Clean Agile
+- The Pragmatic Programmer
+- Refactoring
+- Domain-Specific Languages
+- Patterns of Enterprise Application Architecture
+- Extreme Programming Explained
+- Test-Driven Development
+- Implementation Patterns
+- The Mythical Man-Month
+- Design Patterns
+- Domain-Driven Design
+- Your Code as a Crime Scene
+- Software Design X-Rays
+- Cloud Strategy
