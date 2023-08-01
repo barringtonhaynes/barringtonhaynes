@@ -1,6 +1,6 @@
 ### Hi there, thanks for dropping by 👋
 
-- 🐝 I'm currently Head of Engineering at [Hive Learning](http://hivelearning.com)
+- 🐝 I'm currently VP of Engineering at [Hive Learning](http://hivelearning.com)
 - 🔭 I’m currently working on enhancing our developer experience
 
 <!--
